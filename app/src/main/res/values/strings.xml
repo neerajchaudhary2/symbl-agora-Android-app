@@ -4,12 +4,12 @@
     <!-- PLEASE KEEP THIS App ID IN SAFE PLACE -->
     <!-- Get your own App ID at https://dashboard.agora.io/ -->
     <!-- After you entered the App ID, remove <##> outside of Your App ID -->
-    <string name="agora_app_id">3a59087c5ea44e2fae7465e3a955c3be</string>
-    <string name="symbl_app_id">6a346e3966646279377451386c6b68665069795271336d54676b7047486b4570</string>
-    <string name="symbl_app_secret">765f586c5a78644c78473065503457394d557645664d4b584b755971756a594333566171724a634174707953346f4b535175657638325257786a6c626d563334</string>
-    <string name="agora_channel">test</string>
+    <string name="agora_app_id"></string>
+    <string name="symbl_app_id"></string>
+    <string name="symbl_app_secret"></string>
+    <string name="agora_channel"></string>
     <!-- Obtain a temp Access Token at https://dashboard.agora.io -->
     <!-- You will need to deploy your own token server for production release -->
     <!-- Leave this value empty if Security keys/Token is not enabled for your project -->
-    <string name="agora_access_token">0063a59087c5ea44e2fae7465e3a955c3beIAD/qJE7j0GY+ag6rU0u7wqM9Gd5mNBOZB2zD1cEhGi3Lwx+f9gAAAAAEACMMKzfonI2YAEAAQChcjZg</string>
+    <string name="agora_access_token"></string>
 </resources>
