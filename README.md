@@ -51,7 +51,7 @@ Open src/main/res/values and edit the strings.xml file. In the agoraKit declarat
 Create an account in the Symbl Console if you don't have one already.
 After you login, you will find your appId and appSecret on the home page.
 Store your appId and appSecret in the .env file in the root level of the application (example below).
-Open Agora iOS Tutorial.xcodeproj and edit the AppID.swift file. In there, update symblAppId and symblAppSecret that you see on Symbl console.
+Open src/main/res/values and edit the strings.xml file. In there, update symblAppId and symblAppSecret that you see on Symbl console.
 ```
 <string name="symbl_app_id">Symbl AppId</string>
 <string name="symbl_app_secret">Symbl AppSecret</string>
